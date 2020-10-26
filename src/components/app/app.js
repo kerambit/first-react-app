@@ -9,8 +9,6 @@ import "./app.css";
 
 const App = () => {
 
-
-
     const data = [
         {label: 'lets learn react', important: true, id: 'fw12'},
         {label: 'Lorem ipsum dolor sit amet', important: false, id: 'das124'},
